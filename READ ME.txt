@@ -1,0 +1,8 @@
+1) Follow the instructions to download pysc2 found here: https://github.com/deepmind/pysc2
+	1a) make sure to use version 1.2 can download 1.2 or change version after downloaded
+	
+2)Download StarCraft II from Blizzard. Can be downloaded from their desktop store launcher
+	which can be found here: https://www.blizzard.com/en-us/apps/battle.net/desktop
+	2a) it can also be downloaded directly from their website found here: https://starcraft2.com/en-us/
+
+3)Use pip3 to install pandas
